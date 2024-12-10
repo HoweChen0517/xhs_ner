@@ -1,0 +1,724 @@
+[
+    {
+        "id": 10,
+        "annotations": [
+            {
+                "id": 10,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 5,
+                            "end": 12,
+                            "text": "Salomon",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "SBt_ITvfQ4",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 17,
+                            "end": 19,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "bjQr-xfgSg",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 19,
+                            "end": 22,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "FmOkUphoBa",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 38,
+                            "end": 56,
+                            "text": "Calvin Klein Jeans",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "5D3pPWrdCB",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 66,
+                            "end": 70,
+                            "text": "今年年底",
+                            "labels": [
+                                "TIME"
+                            ]
+                        },
+                        "id": "0T8e2LcLgt",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 79,
+                            "end": 81,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "VkFrP_EsgO",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 81,
+                            "end": 83,
+                            "text": "首家",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "NuovE-ch7c",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 85,
+                            "end": 92,
+                            "text": "Salomon",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "F4SXdk4_Gl",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 106,
+                            "end": 113,
+                            "text": "Salomon",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "yOJT0EVa9y",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 101,
+                            "end": 103,
+                            "text": "福建",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "ZtF4sH6LUI",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 103,
+                            "end": 105,
+                            "text": "首家",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "JgbyPXfDvu",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 115,
+                            "end": 117,
+                            "text": "育泰",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "8PY87jV01M",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 121,
+                            "end": 126,
+                            "text": "今年6月份",
+                            "labels": [
+                                "TIME"
+                            ]
+                        },
+                        "id": "vo1vYj-dEd",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 128,
+                            "end": 130,
+                            "text": "福州",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "aklruUuiV0",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 130,
+                            "end": 133,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "jl0rVF51Ah",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 134,
+                            "end": 136,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "izLc1etNM1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 136,
+                            "end": 139,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "Fam3XfAqrX",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 143,
+                            "end": 150,
+                            "text": "Salomon",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "0laVV2BxDE",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 153,
+                            "end": 155,
+                            "text": "安踏",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "0eGk71Gw-t",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 174,
+                            "end": 181,
+                            "text": "Salomon",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "rZT339CEAp",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 169,
+                            "end": 171,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "PQY_33Rt_P",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 226,
+                            "end": 228,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "thWNgyBuE2",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 228,
+                            "end": 231,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "o5Fa9z-xeL",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 268,
+                            "end": 270,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "hk-LxrW2v7",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 277,
+                            "end": 279,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "DHH5_WGbM5",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 288,
+                            "end": 290,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "ZbBL8QEDJe",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 299,
+                            "end": 301,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "xDKDYoo2X1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 310,
+                            "end": 312,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "g0wHvOdAnx",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 321,
+                            "end": 323,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "-oKKA-OOO0",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 333,
+                            "end": 335,
+                            "text": "华润",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "c4UQH1INud",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 335,
+                            "end": 338,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "oWGvg3gtTy",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 346,
+                            "end": 349,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "W4hhdfPdFv",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 358,
+                            "end": 361,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "ocB6X1nrbe",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 356,
+                            "end": 358,
+                            "text": "厦门",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "k1Z92b2To5",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 368,
+                            "end": 370,
+                            "text": "潮流",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "LFavUMBCMM",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 377,
+                            "end": 379,
+                            "text": "跑鞋",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "NEo55hMqO5",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 386,
+                            "end": 388,
+                            "text": "潮鞋",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "C1D4R0t43E",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 395,
+                            "end": 397,
+                            "text": "穿搭",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "0VFz8n0vEm",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 404,
+                            "end": 406,
+                            "text": "户外",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "H6wjMsQ4GQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 413,
+                            "end": 415,
+                            "text": "山系",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "lYv6vaTsrU",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 422,
+                            "end": 429,
+                            "text": "Salomon",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "FgkFZJb0f2",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 218,
+                            "end": 220,
+                            "text": "户外",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "Cs7JhE4Nrr",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 220,
+                            "end": 222,
+                            "text": "运动",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "8nUtCUF5NK",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 436,
+                            "end": 439,
+                            "text": "萨洛蒙",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "FwZGl8LQJm",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 446,
+                            "end": 456,
+                            "text": "萨洛蒙xtquest",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "LAn1m4M4YF",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-12-04T15:20:01.948407Z",
+                "updated_at": "2024-12-04T15:20:01.948424Z",
+                "draft_created_at": "2024-12-04T15:17:42.609275Z",
+                "lead_time": 147.534,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "a7331bec-e912-4f08-b42a-560633decceb",
+                "import_id": null,
+                "last_action": null,
+                "task": 10,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cda5a6c5-text_data.csv",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "全新一家 Salomon 正式入驻厦门万象城，如今已在 B1 楼层（原铺为 Calvin Klein Jeans）围挡装修中，即将于今年年底正式开业，这也将是厦门首家的 Salomon 品牌门店！\n\t\n福建首家 Salomon 由育泰代理并在今年6月份亮相福州万象城，厦门万象城的这家 Salomon 是由安踏自己直营的门店！\n\t\n那么，厦门首家 Salomon 即将来袭，如果你也期待的话，请举个手表示一下！\n\t\n最后，大家还期待哪些户外运动品牌入驻厦门万象城，也欢迎在评论区留下吧～\n\t\n#航海家Navigator[话题]#\n\t\n#厦门[话题]# #厦门商业[话题]# #厦门新店[话题]#\n#厦门商场[话题]# #厦门商圈[话题]# #厦门新商圈[话题]#\n#华润万象城[话题]#  #万象城[话题]# #厦门万象城[话题]#\n#潮流[话题]# #跑鞋[话题]# #潮鞋[话题]# #穿搭[话题]# #户外[话题]#\n#山系[话题]# #Salomon[话题]# #萨洛蒙[话题]#\n#萨洛蒙xtquest[话题]#"
+        },
+        "meta": {},
+        "created_at": "2024-12-04T08:05:43.724184Z",
+        "updated_at": "2024-12-04T15:20:01.962728Z",
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]

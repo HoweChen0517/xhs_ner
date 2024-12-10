@@ -1,0 +1,19 @@
+{
+    "work_path": "",
+    "folder_name": "Download",
+    "name_format": "发布时间 作者昵称 作品标题",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "cookie": "abRequestId=ceaa1634-fcc6-5178-836e-6280ead97362; webBuild=4.45.1; a1=1938cd161c5ernwm8uqj8i07e95eskfr5y2hd5q7330000409874; webId=13c71de1261f0b9b00ed42e798b0a12d; gid=yjqYSfyWqj2YyjqYSfyKyv2AS2dFIE6Y7AVYJWq38Wdj2xq8dMTiFf88848jYW48080didfd; xsecappid=xhs-pc-web; acw_tc=0a4ad66817332845339906966e24f8acf963ace35e9875007110a1332237de; web_session=0400698e126f225610b3779e7a354bacf3071f; unread={%22ub%22:%2267485132000000000202a53c%22%2C%22ue%22:%22674994ee000000000703b60f%22%2C%22uc%22:30}; websectiga=8886be45f388a1ee7bf611a69f3e174cae48f1ea02c0f8ec3256031b8be9c7ee; sec_poison_id=ab8e70bb-fed4-4d9d-a87d-d082b4e5cc18",
+    "proxy": null,
+    "timeout": 10,
+    "chunk": 2097152,
+    "max_retry": 5,
+    "record_data": true,
+    "image_format": "PNG",
+    "folder_mode": false,
+    "language": "zh_CN",
+    "image_download": false,
+    "video_download": false,
+    "live_download": false,
+    "download_record": true
+}

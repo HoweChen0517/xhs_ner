@@ -1,0 +1,994 @@
+[
+    {
+        "id": 9,
+        "annotations": [
+            {
+                "id": 9,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 5,
+                            "end": 21,
+                            "text": "New Balance GREY",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "8XQQDLBPz-",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 45,
+                            "end": 53,
+                            "text": "新百伦 GREY",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "b-GtANOMDK",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 40,
+                            "end": 42,
+                            "text": "福建",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "4MEsj6CLqm",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 31,
+                            "end": 33,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "gslQFhpGhb",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 33,
+                            "end": 36,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "3hoCSsEgAn",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 67,
+                            "end": 78,
+                            "text": "New Balance",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "i8BkwlTatu",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 62,
+                            "end": 66,
+                            "text": "今年4月",
+                            "labels": [
+                                "TIME"
+                            ]
+                        },
+                        "id": "-KOjJg563O",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 83,
+                            "end": 90,
+                            "text": "LVMH 集团",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "MkJq-6LdXL",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 93,
+                            "end": 96,
+                            "text": "意大利",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "wJlq-KsW8r",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 96,
+                            "end": 99,
+                            "text": "奢侈品",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "JkMaX4noKc",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 124,
+                            "end": 126,
+                            "text": "美产",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "wAt6NhjgHH",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 128,
+                            "end": 133,
+                            "text": "990V6",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "vtHST8VRaM",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 145,
+                            "end": 156,
+                            "text": "New Balance",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "AE58gaYLpt",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 158,
+                            "end": 160,
+                            "text": "高端",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "crmzRFwFg3",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 211,
+                            "end": 213,
+                            "text": "经典",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "9gXusDV7jI",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 205,
+                            "end": 208,
+                            "text": "始祖灰",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "0Arev6VLN2",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 193,
+                            "end": 198,
+                            "text": "GREYA",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "Vt92ArEGJM",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 184,
+                            "end": 186,
+                            "text": "高端",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "Pjgq5i5bOX",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 101,
+                            "end": 111,
+                            "text": "Loro Piana",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "5opuFc0_ju",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 168,
+                            "end": 172,
+                            "text": "GREY",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "p07G9E73sD",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 221,
+                            "end": 225,
+                            "text": "GREY",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "txY1e2-cvc",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 237,
+                            "end": 239,
+                            "text": "全新",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "6tN_JYv_gk",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 248,
+                            "end": 250,
+                            "text": "质感",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "skb1DbKB2q",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 251,
+                            "end": 253,
+                            "text": "灰色",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "XXZYnifRjT",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 257,
+                            "end": 259,
+                            "text": "木质",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "1ZErAXQpbQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 277,
+                            "end": 278,
+                            "text": "鞋",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "fDgXrLzUzI",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 118,
+                            "end": 119,
+                            "text": "鞋",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "CdwryrYNxS",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 140,
+                            "end": 141,
+                            "text": "鞋",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "WlCroNRJ3V",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 116,
+                            "end": 118,
+                            "text": "联名",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "6X5drFbk8G",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 531,
+                            "end": 533,
+                            "text": "穿搭",
+                            "labels": [
+                                "TARGET"
+                            ]
+                        },
+                        "id": "vGxjDxaWFi",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 344,
+                            "end": 346,
+                            "text": "美式",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "yeUylXoV7S",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 346,
+                            "end": 348,
+                            "text": "街头",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "2wXJkBks0x",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 348,
+                            "end": 350,
+                            "text": "复古",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "RU9Z5Tnsth",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 330,
+                            "end": 341,
+                            "text": "New Balance",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "4kGYJBwbAh",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 353,
+                            "end": 367,
+                            "text": "Aimé Leon Dore",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "vQRjLEOX6M",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 373,
+                            "end": 384,
+                            "text": "Teddy Santi",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "id": "CfMVskL1cu",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 397,
+                            "end": 399,
+                            "text": "美式",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "rCIKxRLMYU",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 399,
+                            "end": 401,
+                            "text": "复古",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "A_qv6Y6zpQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 402,
+                            "end": 405,
+                            "text": "学院风",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "uK-nHAz1MQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 406,
+                            "end": 410,
+                            "text": "街头文化",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "y3Jts7YGYV",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 451,
+                            "end": 453,
+                            "text": "美式",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "JqV6XRh9qC",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 453,
+                            "end": 455,
+                            "text": "复古",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "9y-79W_q3H",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 436,
+                            "end": 447,
+                            "text": "New Balance",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "e9nf24j3DQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 494,
+                            "end": 496,
+                            "text": "美式",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "OJprcUfINr",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 496,
+                            "end": 498,
+                            "text": "复古",
+                            "labels": [
+                                "ATTRS"
+                            ]
+                        },
+                        "id": "8AaNJXB6s6",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 519,
+                            "end": 530,
+                            "text": "New Balance",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "l6cCN-JON7",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 567,
+                            "end": 569,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "M4B8X57Pj1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 26,
+                            "end": 28,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "ZC5VPsJH8c",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 576,
+                            "end": 578,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "UntHUV_v1w",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 587,
+                            "end": 589,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "cCtnQVp87-",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 598,
+                            "end": 600,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "WJ_daZhx_z",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 609,
+                            "end": 611,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "m7THZib1x8",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 620,
+                            "end": 622,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "YHKyXELEnA",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 632,
+                            "end": 634,
+                            "text": "华润",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "0hr3aOvHHT",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 641,
+                            "end": 644,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "vmVcXavvPb",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 653,
+                            "end": 656,
+                            "text": "万象城",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "eBkEXGPwsW",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 651,
+                            "end": 653,
+                            "text": "厦门",
+                            "labels": [
+                                "LOC"
+                            ]
+                        },
+                        "id": "uUYpgvpWdO",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 663,
+                            "end": 665,
+                            "text": "NB",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "q63_oPoagL",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 672,
+                            "end": 682,
+                            "text": "NEWBALANCE",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "6oP3MJrxos",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 689,
+                            "end": 699,
+                            "text": "newbalance",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "PK_SBXXpXE",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 706,
+                            "end": 720,
+                            "text": "newbalancegrey",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "k4hB_8O4ji",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 727,
+                            "end": 730,
+                            "text": "新百伦",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "tBlkJmp-4_",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 737,
+                            "end": 746,
+                            "text": "loropiana",
+                            "labels": [
+                                "PROD"
+                            ]
+                        },
+                        "id": "CkDqb4UAQl",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-12-04T15:17:30.954263Z",
+                "updated_at": "2024-12-04T15:17:30.954277Z",
+                "draft_created_at": "2024-12-04T15:11:23.939359Z",
+                "lead_time": 381.917,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "23365d45-762c-48ea-a8ea-5c658035f9bb",
+                "import_id": null,
+                "last_action": null,
+                "task": 9,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "cda5a6c5-text_data.csv",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "全新一家 New Balance GREY 门店落户厦门，入驻厦门万象城，该店为福建首家的新百伦 GREY 特别门店！\n\t\n今年4月，New Balance 宣布与 LVMH 集团旗下的意大利奢侈品牌 Loro Piana 推出限定联名鞋款，采用了美产的 990V6 作为蓝本，该鞋型就是 New Balance 的高端系列。\n\t\n而 GREY 门店为品牌在国内推出的高端系列门店，其「GREYA」来自品牌的「始祖灰」这一经典配色。\n\t\n在 GREY 门店，能看到贯穿门店的全新设计，比如有着不同质感的灰色展架搭配木质元素，还有亚克力透明玻璃搭配灯光展示鞋款，通过对品牌文化与生活方式的呈现，使得 GREY TO MEET YOU！\n\t\n值得一提的是，近几年 New Balance 还和美式街头复古品牌 Aimé Leon Dore 的创始人 Teddy Santi 推出 MADE 系列，将美式复古、学院风与街头文化诠释得淋漓尽致。\n\t\n在新一轮时尚周期回归经典之际，New Balance 已经将美式复古内化为品牌基因，如今全新门店已经来袭，让我们一起期待一下吧！\n\t\n最后，请喜欢美式复古的伙伴们举个手，也欢迎你在评论区分享你的 New Balance 穿搭，让我们一起互动一下～\n\t\n#航海家Navigator[话题]#\n#厦门[话题]# #厦门商业[话题]# #厦门新店[话题]#\n#厦门商场[话题]# #厦门商圈[话题]# #厦门新商圈[话题]#\n#华润[话题]# #万象城[话题]# #厦门万象城[话题]#\n#NB[话题]# #NEWBALANCE[话题]# #newbalance[话题]#\n#newbalancegrey[话题]# #新百伦[话题]# #loropiana[话题]#"
+        },
+        "meta": {},
+        "created_at": "2024-12-04T08:05:43.724163Z",
+        "updated_at": "2024-12-04T15:17:30.971606Z",
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]

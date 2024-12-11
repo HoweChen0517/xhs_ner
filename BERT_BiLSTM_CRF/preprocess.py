@@ -218,7 +218,7 @@ def save_file(filename, data ,id2ent):
 
 if __name__ == '__main__':
 
-    dataset = "cner"
+    dataset = "clue"
     args = config.Args().get_parser()
     args.bert_dir = '../model_hub/chinese-bert-wwm-ext/'
     commonUtils.set_logger(os.path.join(args.log_dir, 'preprocess.log'))

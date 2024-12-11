@@ -586,3 +586,10 @@ if __name__ == '__main__':
         logger.info(raw_text)
         bertForNer.predict(raw_text, model_path)
     
+
+"""
+python main.py --bert_dir="../model_hub/chinese-bert-wwm-ext/" --data_dir="./data/cner/" --data_name="cner" --model_name="bert" --log_dir="./logs/" --output_dir="./checkpoints/" --num_tags=33 --seed=123 --gpu_ids="0" --max_seq_len=150 --lr=3e-5 --crf_lr=3e-2 --other_lr=3e-4 --train_batch_size=32 --train_epochs=3 --eval_batch_size=32 --lstm_hidden=128 --num_layers=1 --use_lstm="False" --use_idcnn="True" --use_crf="True" --dropout_prob=0.3 --dropout=0.3
+python main.py --bert_dir="../model_hub/chinese-bert-wwm-ext/" --data_dir="./data/CHIP2020/" --data_name="chip" --model_name="bert" --log_dir="./logs/" --output_dir="./checkpoints/" --num_tags=33 --seed=123 --gpu_ids="0" --max_seq_len=150 --lr=3e-5 --crf_lr=3e-2 --other_lr=3e-4 --train_batch_size=32 --train_epochs=3 --eval_batch_size=32 --lstm_hidden=128 --num_layers=1 --use_lstm="False" --use_idcnn="True" --use_crf="True" --dropout_prob=0.3 --dropout=0.3
+python main.py --bert_dir="../model_hub/chinese-bert-wwm-ext/" --data_dir="./data/attr/" --data_name="attr" --model_name="bert" --log_dir="./logs/" --output_dir="./checkpoints/" --num_tags=33 --seed=123 --gpu_ids="0" --max_seq_len=150 --lr=3e-5 --crf_lr=3e-2 --other_lr=3e-4 --train_batch_size=32 --train_epochs=3 --eval_batch_size=32 --lstm_hidden=128 --num_layers=1 --use_lstm="False" --use_idcnn="True" --use_crf="True" --dropout_prob=0.3 --dropout=0.3
+python main.py --bert_dir="../model_hub/chinese-bert-wwm-ext/" --data_dir="./data/CLUE/" --data_name="clue" --model_name="bert" --log_dir="./logs/" --output_dir="./checkpoints/" --num_tags=33 --seed=123 --gpu_ids="0" --max_seq_len=150 --lr=3e-5 --crf_lr=3e-2 --other_lr=3e-4 --train_batch_size=32 --train_epochs=3 --eval_batch_size=32 --lstm_hidden=128 --num_layers=1 --use_lstm="False" --use_idcnn="True" --use_crf="True" --dropout_prob=0.3 --dropout=0.3
+"""

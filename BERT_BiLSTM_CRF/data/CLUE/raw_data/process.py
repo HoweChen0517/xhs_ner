@@ -4,10 +4,13 @@ import json
 labels = set()
 
 
-def preprocess(path, save_path):
+def preprocess(input_path, save_path, mode):
   res = []
-  with open(path, 'r', encoding='utf-8') as fp:
-    data = fp.readlines()
+  with open(input_path, 'r', encoding='utf-8') as fp:
+      if not os.path.exists(save_path):
+          os.makedirs(save_path)
+      data_path = os.path.join(save_path, mode + ".json")
+      data = fp.readlines()
   i = 0
   for d in data:
     d = json.loads(d)
@@ -26,14 +29,20 @@ def preprocess(path, save_path):
       labels.add(entity_type)
       
     res.append(tmp)
-  with open(save_path, 'w', encoding='utf-8') as fp:
-    json.dump(res, fp, ensure_ascii=False)
+    i += 1
 
+  with open(data_path, 'w', encoding='utf-8') as fp:
+    json.dump(res, fp, ensure_ascii=False, indent=4)
+  if mode == "train":
+      label_path = os.path.join(save_path, "labels.json")
+      with open(label_path, 'w', encoding='utf-8') as fp:
+          fp.write(json.dumps(list(labels), ensure_ascii=False))
 
 
 if __name__ == "__main__":
-  preprocess('train.txt', '../mid_data/train.json')
-  preprocess('dev.txt', '../mid_data/dev.json')
+  preprocess('train.txt', '../mid_data', 'train')
+  preprocess('dev.txt', '../mid_data', 'dev')
+  # preprocess('test.txt', '../mid_data', 'test')
   with open('../mid_data/labels.json', 'w', encoding='utf-8') as fp:
     json.dump(list(labels), fp, ensure_ascii=False)
 

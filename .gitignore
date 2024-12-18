@@ -2,3 +2,5 @@ model_hub/
 *.pt
 *.pkl
 tensorboard/
+data/
+*.log
